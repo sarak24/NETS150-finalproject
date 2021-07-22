@@ -1,1 +1,1 @@
-We also implemented code that our professor provided for us to calculate the cosine similarities, inverted index, and term frequencies. However, it is not code that we wrote, so those Java files are not included. 
+*We also implemented code that our professor provided for us to calculate the cosine similarities, inverted index, and term frequencies. However, it is not code that we wrote, so those Java files are not included. 
